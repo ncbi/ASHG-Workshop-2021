@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Future website for the ASHG Workshop 2021
 
-You can use the [editor on GitHub](https://github.com/ncbi/ASHG-Workshop-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Enhanced Search Capabilities and Ease of Use of NCBI SRA Data on the Cloud 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This workshop will introduce you to powerful metadata searches for the Sequence Read Archive (SRA) by using interactive metadata queries in the cloud. This service expands the search tools available for SRA and saves time by finding exactly the data you want more quickly than ever before. We will discuss metadata searches in AWS and GCP using common database query methods and demonstrate how to use the metadata tables for searching. We'll run through a hands-on exercises: 1.) finding sequence data based on k-mer searches for specific taxonomic IDs and 2.) filtering runs to find exactly what you want. We will also provide demonstrations and examples to help you better understand how to build your own searches and find the data you want. We will be using Structured Query Language (SQL) to do these searches but no prior SQL experience is required. By the end of this seminar you will know how to run cloud metadata queries to find SRA data based on parameters that interest you. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ncbi/ASHG-Workshop-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
