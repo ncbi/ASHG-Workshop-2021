@@ -28,7 +28,7 @@ Hands-On Activity/Demo in AWS Athena
 Please be advised that in many cases the permissions have been set to allow Notebooks to run on our servers. Some additional programs may need to be loaded to help the notebooks run if they are transferred elsewhere.  Also, permissions to make queries to BigQuery and AWS require credentials that can be set up by your institution.
 
 
-[Live Link to Join Workshop - Only Available September 1r5](http://146.148.41.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnc[…]Workshop-2021&urlpath=tree%2FASHG-Workshop-2021%2F&branch=main)
+[Live Link to Join Workshop - Only Available September 15](http://146.148.41.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnc[…]Workshop-2021&urlpath=tree%2FASHG-Workshop-2021%2F&branch=main)
 
 
 ### Additional Resources From the Workshop
