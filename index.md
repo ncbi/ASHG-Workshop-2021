@@ -7,9 +7,9 @@ This workshop will introduce you to powerful metadata searches for the Sequence 
 
 ### Agenda
 
-[Introductory Slides ](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/ASHG_Introductory_Slides_SRA.pptx){:target="_blank" rel="noopener"}
+[Introductory Slides ](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/ASHG_Introductory_Slides_SRA.pptx)
 
-[Lecture: Getting Started with GCP on BigQuery](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/Lecture_1_BigQuery_ASHG.pptx){:target="_blank" rel="noopener"}
+[Lecture: Getting Started with GCP on BigQuery](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/Lecture_1_BigQuery_ASHG.pptx)
 
 How to Log In
 
@@ -18,13 +18,34 @@ Hands-On Activity/Demo in GCP BigQuery
 Hands-On Activity/Demo in AWS Athena
 
 
-
 ### Join the Hands-On Portion of the Tutorial Here!
 
 Please be advised that in many cases the permissions have been set to allow Notebooks to run on our servers. Some additional programs may need to be loaded to help the notebooks run if they are transferred elsewhere.  Also, permissions to make queries to BigQuery and AWS require credentials that can be set up by your institution.
 
 
-http://146.148.41.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnc[…]Workshop-2021&urlpath=tree%2FASHG-Workshop-2021%2F&branch=main
+[Live Link to Join Workshop - Only Available September 1r5](http://146.148.41.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnc[…]Workshop-2021&urlpath=tree%2FASHG-Workshop-2021%2F&branch=main)
+
+
+### Additional Resources From the Workshop
+
+[PDF Version of Slides Explaining Console Based Set Up of GCP BigQuery](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/Setting_Up_GCP_ASHG.pdf)
+
+[PDF Version of Slides Explaining Console Based Set Up of AWS Athena](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/Setting_Up_Athena_AWS_SRA_COVID.pdf)
+
+### Websites
+
+•	[SRA Cloud Guides](https://www.ncbi.nlm.nih.gov/sra/docs/sra-cloud/)
+
+•	[Interactive SQL Primer at KhanAcademy - Khan Academy Intro to SQL and Databases](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
+
+Tutorial Videos
+
+•	[SRA Metadata in the Google BigQuery](https://www.youtube.com/watch?v=DkNz-RCCm-M)
+
+•	[SRA Metadata in Amazon Athena](https://www.youtube.com/watch?v=_F4FhcDWSJg)
+
+
+![How To Get Help]!(./how_to_get_help.png)
 
 
 
