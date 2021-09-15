@@ -45,7 +45,7 @@ Tutorial Videos
 •	[SRA Metadata in Amazon Athena](https://www.youtube.com/watch?v=_F4FhcDWSJg)
 
 
-![How To Get Help]!(./how_to_get_help.png)
+![How To Get Help](./how_to_get_help.png)
 
 
 
