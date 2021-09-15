@@ -7,6 +7,8 @@ This workshop will introduce you to powerful metadata searches for the Sequence 
 ### Instructors
 
 Adam Stine, M.S.
+
+
 Adelaide Rhodes, Ph.D.
 
 
