@@ -9,7 +9,7 @@ This workshop will introduce you to powerful metadata searches for the Sequence 
 
 [Introductory Slides ](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/ASHG_Introductory_Slides_SRA.pptx){:target="_blank" rel="noopener"}
 
-Lecture: Getting Started with GCP BigQuery
+[Lecture: Getting Started with GCP on BigQuery](https://github.com/ncbi/ASHG-Workshop-2021/raw/main/Lecture_1_BigQuery_ASHG.pptx){:target="_blank" rel="noopener"}
 
 How to Log In
 
