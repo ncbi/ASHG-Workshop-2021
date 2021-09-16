@@ -40,7 +40,12 @@ Hands-On Activity/Demo in AWS Athena
 Please be advised that in many cases the permissions have been set to allow Notebooks to run on our servers. Some additional programs may need to be loaded to help the notebooks run if they are transferred elsewhere.  Also, permissions to make queries to BigQuery and AWS require credentials that can be set up by your institution.
 
 
-[Live Link to Join Workshop - Only Available September 15](http://146.148.41.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnc[…]Workshop-2021&urlpath=tree%2FASHG-Workshop-2021%2F&branch=main)
+The Live Link is Deprecated now that the Workshop has Ended.
+
+[Here's a link to the live workshop](https://learning.ashg.org/products/learn-the-best-way-to-find-data-in-nihs-sequence-read-archive-sra-on-the-cloud?force_login=1)
+
+The video link isonly available with ASHG login for attendees who want to review the presentations.
+
 
 
 ### Additional Resources From the Workshop
